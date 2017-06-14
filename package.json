@@ -11,10 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.3",
-<<<<<<< HEAD
-=======
     "lodash": "^4.17.4",
->>>>>>> 66fe6eb2ddf9cebed37cdcdb2b134d137c8789d3
     "nunjucks": "^3.0.1"
   }
 }
